@@ -1,0 +1,27 @@
+{
+  "name": "ngx-wcvalidator",
+  "version": "1.0.1",
+  "description": "This is a simple word count validator function with option to set minimum and maximum number of allowed characters.",
+  "author": "An Introvert Developer",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/anintrovertdeveloper/NgxWCValidator.git"
+  },
+  "bugs": {
+	"url": "https://github.com/anintrovertdeveloper/NgxWCValidator/issues"
+  },
+  "homepage": "https://github.com/anintrovertdeveloper/NgxWCValidator",
+  "keywords": [
+	  "angular",
+	  "javascript",
+	  "typescript",
+	  "directive",
+	  "validation",
+	  "word-count"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}
